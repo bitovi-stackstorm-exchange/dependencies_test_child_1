@@ -5,4 +5,4 @@ version : 0.1.0
 author : Bitovi, LLC
 email : mick@bitovi.com
 dependencies:
-  - https://github.com/mickmcgrath13/dependencies_test_child_1_0
+  - https://github.com/bitovi-stackstorm-exchange/dependencies_test_child_1_0
