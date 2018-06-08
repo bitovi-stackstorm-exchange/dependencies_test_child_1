@@ -1,0 +1,8 @@
+---
+name : dependencies_test_child_1
+description : Test child_1 pack with dependencies
+version : 0.1.0
+author : Bitovi, LLC
+email : mick@bitovi.com
+dependencies:
+  - file:////opt/stackstorm/packs.dev/dependencies_test_child_1_0
